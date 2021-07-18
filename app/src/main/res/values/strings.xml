@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Health Heroes Crud</string>
+    <string-array name="profissoes_spinner">
+        <item>Médico</item>
+        <item>Enfermeiro</item>
+        <item>Fonoaudiologia</item>
+        <item>Técnico de Enfermagem</item>
+
+    </string-array>
+    <string name="selecione_um_horario">Selecione um horário</string>
+    <string name="login">Login</string>
+    <string name="Registrar">Registrar</string>
+    <string name="prefiro_nao_declarar">Prefiro não declarar</string>
+    <string name="profissional">Profissional:</string>
+    <string name="area_de_especializacao">Área de Especialização:</string>
+    <string name="numero_de_registro">Número de registro: (CRM)</string>
+    <string name="especializacao_primaria">Área de Especialização Primária:(Se houver)</string>
+    <string name="especializacao_secundaria">Área de Especialização Secundária:(Se houver)</string>
+    <string name="selecionar_foto_da_galeria">Selecionar Foto da Galeria</string>
+    <string name="finalizar_cadastro_e_salvar">Finalizar Cadastro e Salvar</string>
+
+</resources>
